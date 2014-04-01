@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Seg 31 Mar 2014 19:16:48 UTC
+
+BeginCmp
+TimeStamp = /533853B1;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /533853C4;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /533853CA;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385635;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53385668;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5338756C;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /533875A1;
+Reference = C7;
+ValeurCmp = C;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /533883A7;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5338839A;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5339C04A;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53387529;
+Reference = IC1;
+ValeurCmp = V_REG_LM1117SOT223;
+IdModule  = SparkFun-SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /53384EBB;
+Reference = P1;
+ValeurCmp = CONN_4X2;
+IdModule  = SparkFun-2X4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5338539A;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = SparkFun-1X02_LOCK;
+EndCmp
+
+BeginCmp
+TimeStamp = /53387C36;
+Reference = P3;
+ValeurCmp = CONN_4;
+IdModule  = SparkFun-1X04_LOCK;
+EndCmp
+
+BeginCmp
+TimeStamp = /53384F43;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5338579E;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5338577D;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53387536;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5338753C;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5338838C;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53388392;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53389548;
+Reference = R8;
+ValeurCmp = 0;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5339C059;
+Reference = R9;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53384E5D;
+Reference = U1;
+ValeurCmp = MSP430G2553IPW20;
+IdModule  = SparkFun-TSSOP20;
+EndCmp
+
+BeginCmp
+TimeStamp = /533855D7;
+Reference = U2;
+ValeurCmp = CP2102;
+IdModule  = QFN28;
+EndCmp
+
+EndListe
